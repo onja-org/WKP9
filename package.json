@@ -1,0 +1,22 @@
+{
+	"name": "wkp9",
+	"version": "1.0.0",
+	"description": "Hey team! After a major graded project, let's do something different, and a little bit more straightforward. Today we’re going to build a list of the Studio Ghibli Movies, ranked from best to worst. If you haven’t seen any of those, I suggest you to look on the Onja hard drive! (after completing the project of course). They are amazing ✨",
+	"main": "index.js",
+	"scripts": {
+		"start": "parcel index.html"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/onja-org/WKP9.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/onja-org/WKP9/issues"
+	},
+	"homepage": "https://github.com/onja-org/WKP9#readme",
+	"browserslist": [
+		"last 1 Chrome versions"
+	]
+}
